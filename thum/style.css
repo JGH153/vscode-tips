@@ -59,7 +59,7 @@ i {
 .thumbnail {
   /*debug*/
   transform: scale(1);
-  /* transform: scale(1.5); */
+  transform: scale(1.5);
   background: black;
   width: 1280px;
 	height: 720px;
