@@ -26,6 +26,26 @@ i {
   color: #23a7f2 !important;
   /* color: #007ACC !important; */
 }
+.vscode-alt {
+  color: #007ACC !important;
+  /* color: #007ACC !important; */
+}
+.vscode-green {
+  color: #37B34A !important;
+  /* color: #007ACC !important; */
+}
+.vscode-red {
+  color: #F42534 !important;
+  /* color: #007ACC !important; */
+}
+.vscode-purple {
+  color: #2E3192 !important;
+  /* color: #007ACC !important; */
+}
+
+.white {
+	color: white !important;
+}
 
 
 .container {
@@ -86,6 +106,9 @@ i {
 	margin: 0;
 }
 
+.sub-big {
+	font-size: 150%;
+}
 
 
 /* Right */
@@ -93,7 +116,7 @@ i {
 .right-side {
 	width: 20%;
 	background: #B10B0D;
-	background: #3C3C3C;
+	background: #2C2C32;
 	color: green;
 	height: 100%;
 	position: relative;
@@ -107,7 +130,7 @@ i {
 	height: 100%;
 	background: green;
 	background: #B10B0D;
-	background: #3C3C3C;
+	background: #2C2C32;
 	
 	clip-path: polygon(
     0 0, /* left top */
